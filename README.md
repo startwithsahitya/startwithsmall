@@ -1,3 +1,11 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://RishabhhG.io)
+
+<h1 align="left">Hiii !!👋 ?</h1>
+
+<p align="left">I'm Sahitya Singh, passionate about designing and building problem-solving solutions.</p>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 - 👋 Hi, I’m @startwithsmall
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,7 +14,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-startwithsmall/startwithsmall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
